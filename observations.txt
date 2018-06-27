@@ -1,0 +1,7 @@
+Observable Trends
+
+1. It would appear from the sentiments data that BBC and Fox had the most positive tweets out of the 5 media outlets.
+
+2. CBS and CNN would have the most negative tweets. Although, New York Times is slight in the negative, it would be considered neutral.
+
+3. There were a wide variety of sentiments across tweets, based on the scatter plot graph, likely because the news can go either way.
